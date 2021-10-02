@@ -1,0 +1,14 @@
+C:\Users\91940\Desktop\RKIT\ConsoleAppForHelloWorldDemo\ConsoleAppForHelloWorldDemo\bin\Debug\netcoreapp3.1\ConsoleAppForHelloWorldDemo.exe
+C:\Users\91940\Desktop\RKIT\ConsoleAppForHelloWorldDemo\ConsoleAppForHelloWorldDemo\bin\Debug\netcoreapp3.1\ConsoleAppForHelloWorldDemo.deps.json
+C:\Users\91940\Desktop\RKIT\ConsoleAppForHelloWorldDemo\ConsoleAppForHelloWorldDemo\bin\Debug\netcoreapp3.1\ConsoleAppForHelloWorldDemo.runtimeconfig.json
+C:\Users\91940\Desktop\RKIT\ConsoleAppForHelloWorldDemo\ConsoleAppForHelloWorldDemo\bin\Debug\netcoreapp3.1\ConsoleAppForHelloWorldDemo.runtimeconfig.dev.json
+C:\Users\91940\Desktop\RKIT\ConsoleAppForHelloWorldDemo\ConsoleAppForHelloWorldDemo\bin\Debug\netcoreapp3.1\ConsoleAppForHelloWorldDemo.dll
+C:\Users\91940\Desktop\RKIT\ConsoleAppForHelloWorldDemo\ConsoleAppForHelloWorldDemo\bin\Debug\netcoreapp3.1\ConsoleAppForHelloWorldDemo.pdb
+C:\Users\91940\Desktop\RKIT\ConsoleAppForHelloWorldDemo\ConsoleAppForHelloWorldDemo\obj\Debug\netcoreapp3.1\ConsoleAppForHelloWorldDemo.csproj.AssemblyReference.cache
+C:\Users\91940\Desktop\RKIT\ConsoleAppForHelloWorldDemo\ConsoleAppForHelloWorldDemo\obj\Debug\netcoreapp3.1\ConsoleAppForHelloWorldDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\Desktop\RKIT\ConsoleAppForHelloWorldDemo\ConsoleAppForHelloWorldDemo\obj\Debug\netcoreapp3.1\ConsoleAppForHelloWorldDemo.AssemblyInfoInputs.cache
+C:\Users\91940\Desktop\RKIT\ConsoleAppForHelloWorldDemo\ConsoleAppForHelloWorldDemo\obj\Debug\netcoreapp3.1\ConsoleAppForHelloWorldDemo.AssemblyInfo.cs
+C:\Users\91940\Desktop\RKIT\ConsoleAppForHelloWorldDemo\ConsoleAppForHelloWorldDemo\obj\Debug\netcoreapp3.1\ConsoleAppForHelloWorldDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\Desktop\RKIT\ConsoleAppForHelloWorldDemo\ConsoleAppForHelloWorldDemo\obj\Debug\netcoreapp3.1\ConsoleAppForHelloWorldDemo.dll
+C:\Users\91940\Desktop\RKIT\ConsoleAppForHelloWorldDemo\ConsoleAppForHelloWorldDemo\obj\Debug\netcoreapp3.1\ConsoleAppForHelloWorldDemo.pdb
+C:\Users\91940\Desktop\RKIT\ConsoleAppForHelloWorldDemo\ConsoleAppForHelloWorldDemo\obj\Debug\netcoreapp3.1\ConsoleAppForHelloWorldDemo.genruntimeconfig.cache

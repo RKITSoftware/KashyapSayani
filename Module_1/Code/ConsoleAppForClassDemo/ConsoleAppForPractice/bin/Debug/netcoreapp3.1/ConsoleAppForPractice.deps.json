@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleAppForPractice/1.0.0": {
+        "runtime": {
+          "ConsoleAppForPractice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppForPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

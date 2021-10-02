@@ -1,0 +1,14 @@
+C:\Users\91940\Desktop\RKIT\ConsoleAppForPractice\ConsoleAppForPractice\bin\Debug\netcoreapp3.1\ConsoleAppForPractice.exe
+C:\Users\91940\Desktop\RKIT\ConsoleAppForPractice\ConsoleAppForPractice\bin\Debug\netcoreapp3.1\ConsoleAppForPractice.deps.json
+C:\Users\91940\Desktop\RKIT\ConsoleAppForPractice\ConsoleAppForPractice\bin\Debug\netcoreapp3.1\ConsoleAppForPractice.runtimeconfig.json
+C:\Users\91940\Desktop\RKIT\ConsoleAppForPractice\ConsoleAppForPractice\bin\Debug\netcoreapp3.1\ConsoleAppForPractice.runtimeconfig.dev.json
+C:\Users\91940\Desktop\RKIT\ConsoleAppForPractice\ConsoleAppForPractice\bin\Debug\netcoreapp3.1\ConsoleAppForPractice.dll
+C:\Users\91940\Desktop\RKIT\ConsoleAppForPractice\ConsoleAppForPractice\bin\Debug\netcoreapp3.1\ConsoleAppForPractice.pdb
+C:\Users\91940\Desktop\RKIT\ConsoleAppForPractice\ConsoleAppForPractice\obj\Debug\netcoreapp3.1\ConsoleAppForPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\Desktop\RKIT\ConsoleAppForPractice\ConsoleAppForPractice\obj\Debug\netcoreapp3.1\ConsoleAppForPractice.AssemblyInfoInputs.cache
+C:\Users\91940\Desktop\RKIT\ConsoleAppForPractice\ConsoleAppForPractice\obj\Debug\netcoreapp3.1\ConsoleAppForPractice.AssemblyInfo.cs
+C:\Users\91940\Desktop\RKIT\ConsoleAppForPractice\ConsoleAppForPractice\obj\Debug\netcoreapp3.1\ConsoleAppForPractice.csproj.CoreCompileInputs.cache
+C:\Users\91940\Desktop\RKIT\ConsoleAppForPractice\ConsoleAppForPractice\obj\Debug\netcoreapp3.1\ConsoleAppForPractice.dll
+C:\Users\91940\Desktop\RKIT\ConsoleAppForPractice\ConsoleAppForPractice\obj\Debug\netcoreapp3.1\ConsoleAppForPractice.pdb
+C:\Users\91940\Desktop\RKIT\ConsoleAppForPractice\ConsoleAppForPractice\obj\Debug\netcoreapp3.1\ConsoleAppForPractice.genruntimeconfig.cache
+C:\Users\91940\Desktop\RKIT\ConsoleAppForPractice\ConsoleAppForPractice\obj\Debug\netcoreapp3.1\ConsoleAppForPractice.csproj.AssemblyReference.cache

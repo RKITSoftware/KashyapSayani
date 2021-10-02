@@ -1,0 +1,14 @@
+C:\Users\91940\Desktop\RKIT\ConsoleAppForMethodDemo\ConsoleAppForMethodDemo\bin\Debug\netcoreapp3.1\ConsoleAppForMethodDemo.exe
+C:\Users\91940\Desktop\RKIT\ConsoleAppForMethodDemo\ConsoleAppForMethodDemo\bin\Debug\netcoreapp3.1\ConsoleAppForMethodDemo.deps.json
+C:\Users\91940\Desktop\RKIT\ConsoleAppForMethodDemo\ConsoleAppForMethodDemo\bin\Debug\netcoreapp3.1\ConsoleAppForMethodDemo.runtimeconfig.json
+C:\Users\91940\Desktop\RKIT\ConsoleAppForMethodDemo\ConsoleAppForMethodDemo\bin\Debug\netcoreapp3.1\ConsoleAppForMethodDemo.runtimeconfig.dev.json
+C:\Users\91940\Desktop\RKIT\ConsoleAppForMethodDemo\ConsoleAppForMethodDemo\bin\Debug\netcoreapp3.1\ConsoleAppForMethodDemo.dll
+C:\Users\91940\Desktop\RKIT\ConsoleAppForMethodDemo\ConsoleAppForMethodDemo\bin\Debug\netcoreapp3.1\ConsoleAppForMethodDemo.pdb
+C:\Users\91940\Desktop\RKIT\ConsoleAppForMethodDemo\ConsoleAppForMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppForMethodDemo.csproj.AssemblyReference.cache
+C:\Users\91940\Desktop\RKIT\ConsoleAppForMethodDemo\ConsoleAppForMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppForMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\Desktop\RKIT\ConsoleAppForMethodDemo\ConsoleAppForMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppForMethodDemo.AssemblyInfoInputs.cache
+C:\Users\91940\Desktop\RKIT\ConsoleAppForMethodDemo\ConsoleAppForMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppForMethodDemo.AssemblyInfo.cs
+C:\Users\91940\Desktop\RKIT\ConsoleAppForMethodDemo\ConsoleAppForMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppForMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\Desktop\RKIT\ConsoleAppForMethodDemo\ConsoleAppForMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppForMethodDemo.dll
+C:\Users\91940\Desktop\RKIT\ConsoleAppForMethodDemo\ConsoleAppForMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppForMethodDemo.pdb
+C:\Users\91940\Desktop\RKIT\ConsoleAppForMethodDemo\ConsoleAppForMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppForMethodDemo.genruntimeconfig.cache

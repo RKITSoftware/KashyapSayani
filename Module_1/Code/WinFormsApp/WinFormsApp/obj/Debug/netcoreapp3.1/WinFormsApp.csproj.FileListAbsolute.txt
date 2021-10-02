@@ -1,0 +1,16 @@
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\bin\Debug\netcoreapp3.1\WinFormsApp.exe
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\bin\Debug\netcoreapp3.1\WinFormsApp.deps.json
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\bin\Debug\netcoreapp3.1\WinFormsApp.runtimeconfig.json
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\bin\Debug\netcoreapp3.1\WinFormsApp.runtimeconfig.dev.json
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\bin\Debug\netcoreapp3.1\WinFormsApp.dll
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\bin\Debug\netcoreapp3.1\WinFormsApp.pdb
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\obj\Debug\netcoreapp3.1\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\obj\Debug\netcoreapp3.1\WinFormsApp.btn_hello.resources
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\obj\Debug\netcoreapp3.1\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\obj\Debug\netcoreapp3.1\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\obj\Debug\netcoreapp3.1\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\obj\Debug\netcoreapp3.1\WinFormsApp.AssemblyInfo.cs
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\obj\Debug\netcoreapp3.1\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\obj\Debug\netcoreapp3.1\WinFormsApp.dll
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\obj\Debug\netcoreapp3.1\WinFormsApp.pdb
+C:\Users\91940\Desktop\RKIT\WinFormsApp\WinFormsApp\obj\Debug\netcoreapp3.1\WinFormsApp.genruntimeconfig.cache
