@@ -1,0 +1,14 @@
+C:\Users\91940\source\repos\ConsoleAppBoxingDemo\ConsoleAppBoxingDemo\bin\Debug\netcoreapp3.1\ConsoleAppBoxingDemo.exe
+C:\Users\91940\source\repos\ConsoleAppBoxingDemo\ConsoleAppBoxingDemo\bin\Debug\netcoreapp3.1\ConsoleAppBoxingDemo.deps.json
+C:\Users\91940\source\repos\ConsoleAppBoxingDemo\ConsoleAppBoxingDemo\bin\Debug\netcoreapp3.1\ConsoleAppBoxingDemo.runtimeconfig.json
+C:\Users\91940\source\repos\ConsoleAppBoxingDemo\ConsoleAppBoxingDemo\bin\Debug\netcoreapp3.1\ConsoleAppBoxingDemo.runtimeconfig.dev.json
+C:\Users\91940\source\repos\ConsoleAppBoxingDemo\ConsoleAppBoxingDemo\bin\Debug\netcoreapp3.1\ConsoleAppBoxingDemo.dll
+C:\Users\91940\source\repos\ConsoleAppBoxingDemo\ConsoleAppBoxingDemo\bin\Debug\netcoreapp3.1\ConsoleAppBoxingDemo.pdb
+C:\Users\91940\source\repos\ConsoleAppBoxingDemo\ConsoleAppBoxingDemo\obj\Debug\netcoreapp3.1\ConsoleAppBoxingDemo.csproj.AssemblyReference.cache
+C:\Users\91940\source\repos\ConsoleAppBoxingDemo\ConsoleAppBoxingDemo\obj\Debug\netcoreapp3.1\ConsoleAppBoxingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\source\repos\ConsoleAppBoxingDemo\ConsoleAppBoxingDemo\obj\Debug\netcoreapp3.1\ConsoleAppBoxingDemo.AssemblyInfoInputs.cache
+C:\Users\91940\source\repos\ConsoleAppBoxingDemo\ConsoleAppBoxingDemo\obj\Debug\netcoreapp3.1\ConsoleAppBoxingDemo.AssemblyInfo.cs
+C:\Users\91940\source\repos\ConsoleAppBoxingDemo\ConsoleAppBoxingDemo\obj\Debug\netcoreapp3.1\ConsoleAppBoxingDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\source\repos\ConsoleAppBoxingDemo\ConsoleAppBoxingDemo\obj\Debug\netcoreapp3.1\ConsoleAppBoxingDemo.dll
+C:\Users\91940\source\repos\ConsoleAppBoxingDemo\ConsoleAppBoxingDemo\obj\Debug\netcoreapp3.1\ConsoleAppBoxingDemo.pdb
+C:\Users\91940\source\repos\ConsoleAppBoxingDemo\ConsoleAppBoxingDemo\obj\Debug\netcoreapp3.1\ConsoleAppBoxingDemo.genruntimeconfig.cache
