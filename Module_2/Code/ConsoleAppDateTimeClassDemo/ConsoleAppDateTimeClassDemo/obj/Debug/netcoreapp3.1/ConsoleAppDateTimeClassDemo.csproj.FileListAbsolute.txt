@@ -1,0 +1,14 @@
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppDateTimeClassDemo\ConsoleAppDateTimeClassDemo\bin\Debug\netcoreapp3.1\ConsoleAppDateTimeClassDemo.exe
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppDateTimeClassDemo\ConsoleAppDateTimeClassDemo\bin\Debug\netcoreapp3.1\ConsoleAppDateTimeClassDemo.deps.json
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppDateTimeClassDemo\ConsoleAppDateTimeClassDemo\bin\Debug\netcoreapp3.1\ConsoleAppDateTimeClassDemo.runtimeconfig.json
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppDateTimeClassDemo\ConsoleAppDateTimeClassDemo\bin\Debug\netcoreapp3.1\ConsoleAppDateTimeClassDemo.runtimeconfig.dev.json
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppDateTimeClassDemo\ConsoleAppDateTimeClassDemo\bin\Debug\netcoreapp3.1\ConsoleAppDateTimeClassDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppDateTimeClassDemo\ConsoleAppDateTimeClassDemo\bin\Debug\netcoreapp3.1\ConsoleAppDateTimeClassDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppDateTimeClassDemo\ConsoleAppDateTimeClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppDateTimeClassDemo.csproj.AssemblyReference.cache
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppDateTimeClassDemo\ConsoleAppDateTimeClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppDateTimeClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppDateTimeClassDemo\ConsoleAppDateTimeClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppDateTimeClassDemo.AssemblyInfoInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppDateTimeClassDemo\ConsoleAppDateTimeClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppDateTimeClassDemo.AssemblyInfo.cs
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppDateTimeClassDemo\ConsoleAppDateTimeClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppDateTimeClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppDateTimeClassDemo\ConsoleAppDateTimeClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppDateTimeClassDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppDateTimeClassDemo\ConsoleAppDateTimeClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppDateTimeClassDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppDateTimeClassDemo\ConsoleAppDateTimeClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppDateTimeClassDemo.genruntimeconfig.cache
