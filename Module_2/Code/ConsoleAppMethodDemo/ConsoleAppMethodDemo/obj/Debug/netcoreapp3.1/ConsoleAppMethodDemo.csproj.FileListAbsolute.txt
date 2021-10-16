@@ -1,0 +1,14 @@
+C:\Users\91940\source\repos\ConsoleAppMethodDemo\ConsoleAppMethodDemo\bin\Debug\netcoreapp3.1\ConsoleAppMethodDemo.exe
+C:\Users\91940\source\repos\ConsoleAppMethodDemo\ConsoleAppMethodDemo\bin\Debug\netcoreapp3.1\ConsoleAppMethodDemo.deps.json
+C:\Users\91940\source\repos\ConsoleAppMethodDemo\ConsoleAppMethodDemo\bin\Debug\netcoreapp3.1\ConsoleAppMethodDemo.runtimeconfig.json
+C:\Users\91940\source\repos\ConsoleAppMethodDemo\ConsoleAppMethodDemo\bin\Debug\netcoreapp3.1\ConsoleAppMethodDemo.runtimeconfig.dev.json
+C:\Users\91940\source\repos\ConsoleAppMethodDemo\ConsoleAppMethodDemo\bin\Debug\netcoreapp3.1\ConsoleAppMethodDemo.dll
+C:\Users\91940\source\repos\ConsoleAppMethodDemo\ConsoleAppMethodDemo\bin\Debug\netcoreapp3.1\ConsoleAppMethodDemo.pdb
+C:\Users\91940\source\repos\ConsoleAppMethodDemo\ConsoleAppMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppMethodDemo.csproj.AssemblyReference.cache
+C:\Users\91940\source\repos\ConsoleAppMethodDemo\ConsoleAppMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\source\repos\ConsoleAppMethodDemo\ConsoleAppMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppMethodDemo.AssemblyInfoInputs.cache
+C:\Users\91940\source\repos\ConsoleAppMethodDemo\ConsoleAppMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppMethodDemo.AssemblyInfo.cs
+C:\Users\91940\source\repos\ConsoleAppMethodDemo\ConsoleAppMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\source\repos\ConsoleAppMethodDemo\ConsoleAppMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppMethodDemo.dll
+C:\Users\91940\source\repos\ConsoleAppMethodDemo\ConsoleAppMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppMethodDemo.pdb
+C:\Users\91940\source\repos\ConsoleAppMethodDemo\ConsoleAppMethodDemo\obj\Debug\netcoreapp3.1\ConsoleAppMethodDemo.genruntimeconfig.cache

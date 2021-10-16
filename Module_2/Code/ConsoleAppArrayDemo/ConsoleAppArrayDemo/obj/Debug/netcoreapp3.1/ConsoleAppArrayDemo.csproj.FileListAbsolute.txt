@@ -1,0 +1,14 @@
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppArrayDemo\ConsoleAppArrayDemo\bin\Debug\netcoreapp3.1\ConsoleAppArrayDemo.exe
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppArrayDemo\ConsoleAppArrayDemo\bin\Debug\netcoreapp3.1\ConsoleAppArrayDemo.deps.json
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppArrayDemo\ConsoleAppArrayDemo\bin\Debug\netcoreapp3.1\ConsoleAppArrayDemo.runtimeconfig.json
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppArrayDemo\ConsoleAppArrayDemo\bin\Debug\netcoreapp3.1\ConsoleAppArrayDemo.runtimeconfig.dev.json
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppArrayDemo\ConsoleAppArrayDemo\bin\Debug\netcoreapp3.1\ConsoleAppArrayDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppArrayDemo\ConsoleAppArrayDemo\bin\Debug\netcoreapp3.1\ConsoleAppArrayDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppArrayDemo\ConsoleAppArrayDemo\obj\Debug\netcoreapp3.1\ConsoleAppArrayDemo.csproj.AssemblyReference.cache
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppArrayDemo\ConsoleAppArrayDemo\obj\Debug\netcoreapp3.1\ConsoleAppArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppArrayDemo\ConsoleAppArrayDemo\obj\Debug\netcoreapp3.1\ConsoleAppArrayDemo.AssemblyInfoInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppArrayDemo\ConsoleAppArrayDemo\obj\Debug\netcoreapp3.1\ConsoleAppArrayDemo.AssemblyInfo.cs
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppArrayDemo\ConsoleAppArrayDemo\obj\Debug\netcoreapp3.1\ConsoleAppArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppArrayDemo\ConsoleAppArrayDemo\obj\Debug\netcoreapp3.1\ConsoleAppArrayDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppArrayDemo\ConsoleAppArrayDemo\obj\Debug\netcoreapp3.1\ConsoleAppArrayDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-2\ConsoleAppArrayDemo\ConsoleAppArrayDemo\obj\Debug\netcoreapp3.1\ConsoleAppArrayDemo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\91940\source\repos\ConsoleAppStringClassDemo\ConsoleAppStringClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppStringClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\source\repos\ConsoleAppStringClassDemo\ConsoleAppStringClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppStringClassDemo.AssemblyInfoInputs.cache
+C:\Users\91940\source\repos\ConsoleAppStringClassDemo\ConsoleAppStringClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppStringClassDemo.AssemblyInfo.cs
+C:\Users\91940\source\repos\ConsoleAppStringClassDemo\ConsoleAppStringClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppStringClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\source\repos\ConsoleAppStringClassDemo\ConsoleAppStringClassDemo\bin\Debug\netcoreapp3.1\ConsoleAppStringClassDemo.exe
+C:\Users\91940\source\repos\ConsoleAppStringClassDemo\ConsoleAppStringClassDemo\bin\Debug\netcoreapp3.1\ConsoleAppStringClassDemo.deps.json
+C:\Users\91940\source\repos\ConsoleAppStringClassDemo\ConsoleAppStringClassDemo\bin\Debug\netcoreapp3.1\ConsoleAppStringClassDemo.runtimeconfig.json
+C:\Users\91940\source\repos\ConsoleAppStringClassDemo\ConsoleAppStringClassDemo\bin\Debug\netcoreapp3.1\ConsoleAppStringClassDemo.runtimeconfig.dev.json
+C:\Users\91940\source\repos\ConsoleAppStringClassDemo\ConsoleAppStringClassDemo\bin\Debug\netcoreapp3.1\ConsoleAppStringClassDemo.dll
+C:\Users\91940\source\repos\ConsoleAppStringClassDemo\ConsoleAppStringClassDemo\bin\Debug\netcoreapp3.1\ConsoleAppStringClassDemo.pdb
+C:\Users\91940\source\repos\ConsoleAppStringClassDemo\ConsoleAppStringClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppStringClassDemo.dll
+C:\Users\91940\source\repos\ConsoleAppStringClassDemo\ConsoleAppStringClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppStringClassDemo.pdb
+C:\Users\91940\source\repos\ConsoleAppStringClassDemo\ConsoleAppStringClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppStringClassDemo.genruntimeconfig.cache
+C:\Users\91940\source\repos\ConsoleAppStringClassDemo\ConsoleAppStringClassDemo\obj\Debug\netcoreapp3.1\ConsoleAppStringClassDemo.csproj.AssemblyReference.cache
