@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppScopAndAccessibilityModifiersDemo", "ConsoleAppScopAndAccessibilityModifiersDemo\ConsoleAppScopAndAccessibilityModifiersDemo.csproj", "{DF4F4904-CAA6-4235-909A-B96845210CE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF4F4904-CAA6-4235-909A-B96845210CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4F4904-CAA6-4235-909A-B96845210CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4F4904-CAA6-4235-909A-B96845210CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4F4904-CAA6-4235-909A-B96845210CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B714A713-6D35-480D-800E-85774F854A99}
+	EndGlobalSection
+EndGlobal

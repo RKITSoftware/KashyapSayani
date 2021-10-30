@@ -1,0 +1,14 @@
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppUnderstandingClassesDemo\ConsoleAppUnderstandingClassesDemo\bin\Debug\netcoreapp3.1\ConsoleAppUnderstandingClassesDemo.exe
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppUnderstandingClassesDemo\ConsoleAppUnderstandingClassesDemo\bin\Debug\netcoreapp3.1\ConsoleAppUnderstandingClassesDemo.deps.json
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppUnderstandingClassesDemo\ConsoleAppUnderstandingClassesDemo\bin\Debug\netcoreapp3.1\ConsoleAppUnderstandingClassesDemo.runtimeconfig.json
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppUnderstandingClassesDemo\ConsoleAppUnderstandingClassesDemo\bin\Debug\netcoreapp3.1\ConsoleAppUnderstandingClassesDemo.runtimeconfig.dev.json
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppUnderstandingClassesDemo\ConsoleAppUnderstandingClassesDemo\bin\Debug\netcoreapp3.1\ConsoleAppUnderstandingClassesDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppUnderstandingClassesDemo\ConsoleAppUnderstandingClassesDemo\bin\Debug\netcoreapp3.1\ConsoleAppUnderstandingClassesDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppUnderstandingClassesDemo\ConsoleAppUnderstandingClassesDemo\obj\Debug\netcoreapp3.1\ConsoleAppUnderstandingClassesDemo.csproj.AssemblyReference.cache
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppUnderstandingClassesDemo\ConsoleAppUnderstandingClassesDemo\obj\Debug\netcoreapp3.1\ConsoleAppUnderstandingClassesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppUnderstandingClassesDemo\ConsoleAppUnderstandingClassesDemo\obj\Debug\netcoreapp3.1\ConsoleAppUnderstandingClassesDemo.AssemblyInfoInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppUnderstandingClassesDemo\ConsoleAppUnderstandingClassesDemo\obj\Debug\netcoreapp3.1\ConsoleAppUnderstandingClassesDemo.AssemblyInfo.cs
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppUnderstandingClassesDemo\ConsoleAppUnderstandingClassesDemo\obj\Debug\netcoreapp3.1\ConsoleAppUnderstandingClassesDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppUnderstandingClassesDemo\ConsoleAppUnderstandingClassesDemo\obj\Debug\netcoreapp3.1\ConsoleAppUnderstandingClassesDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppUnderstandingClassesDemo\ConsoleAppUnderstandingClassesDemo\obj\Debug\netcoreapp3.1\ConsoleAppUnderstandingClassesDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppUnderstandingClassesDemo\ConsoleAppUnderstandingClassesDemo\obj\Debug\netcoreapp3.1\ConsoleAppUnderstandingClassesDemo.genruntimeconfig.cache

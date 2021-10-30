@@ -1,0 +1,14 @@
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppNamespaceDemo\ConsoleAppNamespaceDemo\bin\Debug\netcoreapp3.1\ConsoleAppNamespaceDemo.exe
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppNamespaceDemo\ConsoleAppNamespaceDemo\bin\Debug\netcoreapp3.1\ConsoleAppNamespaceDemo.deps.json
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppNamespaceDemo\ConsoleAppNamespaceDemo\bin\Debug\netcoreapp3.1\ConsoleAppNamespaceDemo.runtimeconfig.json
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppNamespaceDemo\ConsoleAppNamespaceDemo\bin\Debug\netcoreapp3.1\ConsoleAppNamespaceDemo.runtimeconfig.dev.json
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppNamespaceDemo\ConsoleAppNamespaceDemo\bin\Debug\netcoreapp3.1\ConsoleAppNamespaceDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppNamespaceDemo\ConsoleAppNamespaceDemo\bin\Debug\netcoreapp3.1\ConsoleAppNamespaceDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppNamespaceDemo\ConsoleAppNamespaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppNamespaceDemo.csproj.AssemblyReference.cache
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppNamespaceDemo\ConsoleAppNamespaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppNamespaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppNamespaceDemo\ConsoleAppNamespaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppNamespaceDemo.AssemblyInfoInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppNamespaceDemo\ConsoleAppNamespaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppNamespaceDemo.AssemblyInfo.cs
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppNamespaceDemo\ConsoleAppNamespaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppNamespaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppNamespaceDemo\ConsoleAppNamespaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppNamespaceDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppNamespaceDemo\ConsoleAppNamespaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppNamespaceDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-3\ConsoleAppNamespaceDemo\ConsoleAppNamespaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppNamespaceDemo.genruntimeconfig.cache
