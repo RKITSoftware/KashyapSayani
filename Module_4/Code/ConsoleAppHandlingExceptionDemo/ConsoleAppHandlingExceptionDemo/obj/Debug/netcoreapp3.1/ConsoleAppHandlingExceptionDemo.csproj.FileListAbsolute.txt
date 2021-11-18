@@ -1,0 +1,14 @@
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppHandlingExceptionDemo\ConsoleAppHandlingExceptionDemo\bin\Debug\netcoreapp3.1\ConsoleAppHandlingExceptionDemo.exe
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppHandlingExceptionDemo\ConsoleAppHandlingExceptionDemo\bin\Debug\netcoreapp3.1\ConsoleAppHandlingExceptionDemo.deps.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppHandlingExceptionDemo\ConsoleAppHandlingExceptionDemo\bin\Debug\netcoreapp3.1\ConsoleAppHandlingExceptionDemo.runtimeconfig.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppHandlingExceptionDemo\ConsoleAppHandlingExceptionDemo\bin\Debug\netcoreapp3.1\ConsoleAppHandlingExceptionDemo.runtimeconfig.dev.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppHandlingExceptionDemo\ConsoleAppHandlingExceptionDemo\bin\Debug\netcoreapp3.1\ConsoleAppHandlingExceptionDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppHandlingExceptionDemo\ConsoleAppHandlingExceptionDemo\bin\Debug\netcoreapp3.1\ConsoleAppHandlingExceptionDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppHandlingExceptionDemo\ConsoleAppHandlingExceptionDemo\obj\Debug\netcoreapp3.1\ConsoleAppHandlingExceptionDemo.csproj.AssemblyReference.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppHandlingExceptionDemo\ConsoleAppHandlingExceptionDemo\obj\Debug\netcoreapp3.1\ConsoleAppHandlingExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppHandlingExceptionDemo\ConsoleAppHandlingExceptionDemo\obj\Debug\netcoreapp3.1\ConsoleAppHandlingExceptionDemo.AssemblyInfoInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppHandlingExceptionDemo\ConsoleAppHandlingExceptionDemo\obj\Debug\netcoreapp3.1\ConsoleAppHandlingExceptionDemo.AssemblyInfo.cs
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppHandlingExceptionDemo\ConsoleAppHandlingExceptionDemo\obj\Debug\netcoreapp3.1\ConsoleAppHandlingExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppHandlingExceptionDemo\ConsoleAppHandlingExceptionDemo\obj\Debug\netcoreapp3.1\ConsoleAppHandlingExceptionDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppHandlingExceptionDemo\ConsoleAppHandlingExceptionDemo\obj\Debug\netcoreapp3.1\ConsoleAppHandlingExceptionDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppHandlingExceptionDemo\ConsoleAppHandlingExceptionDemo\obj\Debug\netcoreapp3.1\ConsoleAppHandlingExceptionDemo.genruntimeconfig.cache

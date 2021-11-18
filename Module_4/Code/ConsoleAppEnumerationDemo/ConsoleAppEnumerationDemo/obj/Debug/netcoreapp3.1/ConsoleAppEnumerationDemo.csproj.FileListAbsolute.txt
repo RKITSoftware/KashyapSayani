@@ -1,0 +1,14 @@
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppEnumerationDemo\ConsoleAppEnumerationDemo\bin\Debug\netcoreapp3.1\ConsoleAppEnumerationDemo.exe
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppEnumerationDemo\ConsoleAppEnumerationDemo\bin\Debug\netcoreapp3.1\ConsoleAppEnumerationDemo.deps.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppEnumerationDemo\ConsoleAppEnumerationDemo\bin\Debug\netcoreapp3.1\ConsoleAppEnumerationDemo.runtimeconfig.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppEnumerationDemo\ConsoleAppEnumerationDemo\bin\Debug\netcoreapp3.1\ConsoleAppEnumerationDemo.runtimeconfig.dev.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppEnumerationDemo\ConsoleAppEnumerationDemo\bin\Debug\netcoreapp3.1\ConsoleAppEnumerationDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppEnumerationDemo\ConsoleAppEnumerationDemo\bin\Debug\netcoreapp3.1\ConsoleAppEnumerationDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppEnumerationDemo\ConsoleAppEnumerationDemo\obj\Debug\netcoreapp3.1\ConsoleAppEnumerationDemo.csproj.AssemblyReference.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppEnumerationDemo\ConsoleAppEnumerationDemo\obj\Debug\netcoreapp3.1\ConsoleAppEnumerationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppEnumerationDemo\ConsoleAppEnumerationDemo\obj\Debug\netcoreapp3.1\ConsoleAppEnumerationDemo.AssemblyInfoInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppEnumerationDemo\ConsoleAppEnumerationDemo\obj\Debug\netcoreapp3.1\ConsoleAppEnumerationDemo.AssemblyInfo.cs
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppEnumerationDemo\ConsoleAppEnumerationDemo\obj\Debug\netcoreapp3.1\ConsoleAppEnumerationDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppEnumerationDemo\ConsoleAppEnumerationDemo\obj\Debug\netcoreapp3.1\ConsoleAppEnumerationDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppEnumerationDemo\ConsoleAppEnumerationDemo\obj\Debug\netcoreapp3.1\ConsoleAppEnumerationDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppEnumerationDemo\ConsoleAppEnumerationDemo\obj\Debug\netcoreapp3.1\ConsoleAppEnumerationDemo.genruntimeconfig.cache

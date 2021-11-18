@@ -1,0 +1,14 @@
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInterfaceDemo\ConsoleAppInterfaceDemo\bin\Debug\netcoreapp3.1\ConsoleAppInterfaceDemo.exe
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInterfaceDemo\ConsoleAppInterfaceDemo\bin\Debug\netcoreapp3.1\ConsoleAppInterfaceDemo.deps.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInterfaceDemo\ConsoleAppInterfaceDemo\bin\Debug\netcoreapp3.1\ConsoleAppInterfaceDemo.runtimeconfig.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInterfaceDemo\ConsoleAppInterfaceDemo\bin\Debug\netcoreapp3.1\ConsoleAppInterfaceDemo.runtimeconfig.dev.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInterfaceDemo\ConsoleAppInterfaceDemo\bin\Debug\netcoreapp3.1\ConsoleAppInterfaceDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInterfaceDemo\ConsoleAppInterfaceDemo\bin\Debug\netcoreapp3.1\ConsoleAppInterfaceDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInterfaceDemo\ConsoleAppInterfaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInterfaceDemo.csproj.AssemblyReference.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInterfaceDemo\ConsoleAppInterfaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInterfaceDemo\ConsoleAppInterfaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInterfaceDemo\ConsoleAppInterfaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInterfaceDemo.AssemblyInfo.cs
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInterfaceDemo\ConsoleAppInterfaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInterfaceDemo\ConsoleAppInterfaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInterfaceDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInterfaceDemo\ConsoleAppInterfaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInterfaceDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInterfaceDemo\ConsoleAppInterfaceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInterfaceDemo.genruntimeconfig.cache

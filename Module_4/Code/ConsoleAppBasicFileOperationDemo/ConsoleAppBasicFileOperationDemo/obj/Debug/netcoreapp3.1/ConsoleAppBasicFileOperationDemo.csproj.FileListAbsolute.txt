@@ -1,0 +1,14 @@
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppBasicFileOperationDemo\ConsoleAppBasicFileOperationDemo\obj\Debug\netcoreapp3.1\ConsoleAppBasicFileOperationDemo.csproj.AssemblyReference.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppBasicFileOperationDemo\ConsoleAppBasicFileOperationDemo\obj\Debug\netcoreapp3.1\ConsoleAppBasicFileOperationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppBasicFileOperationDemo\ConsoleAppBasicFileOperationDemo\obj\Debug\netcoreapp3.1\ConsoleAppBasicFileOperationDemo.AssemblyInfoInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppBasicFileOperationDemo\ConsoleAppBasicFileOperationDemo\obj\Debug\netcoreapp3.1\ConsoleAppBasicFileOperationDemo.AssemblyInfo.cs
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppBasicFileOperationDemo\ConsoleAppBasicFileOperationDemo\obj\Debug\netcoreapp3.1\ConsoleAppBasicFileOperationDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppBasicFileOperationDemo\ConsoleAppBasicFileOperationDemo\bin\Debug\netcoreapp3.1\ConsoleAppBasicFileOperationDemo.exe
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppBasicFileOperationDemo\ConsoleAppBasicFileOperationDemo\bin\Debug\netcoreapp3.1\ConsoleAppBasicFileOperationDemo.deps.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppBasicFileOperationDemo\ConsoleAppBasicFileOperationDemo\bin\Debug\netcoreapp3.1\ConsoleAppBasicFileOperationDemo.runtimeconfig.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppBasicFileOperationDemo\ConsoleAppBasicFileOperationDemo\bin\Debug\netcoreapp3.1\ConsoleAppBasicFileOperationDemo.runtimeconfig.dev.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppBasicFileOperationDemo\ConsoleAppBasicFileOperationDemo\bin\Debug\netcoreapp3.1\ConsoleAppBasicFileOperationDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppBasicFileOperationDemo\ConsoleAppBasicFileOperationDemo\bin\Debug\netcoreapp3.1\ConsoleAppBasicFileOperationDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppBasicFileOperationDemo\ConsoleAppBasicFileOperationDemo\obj\Debug\netcoreapp3.1\ConsoleAppBasicFileOperationDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppBasicFileOperationDemo\ConsoleAppBasicFileOperationDemo\obj\Debug\netcoreapp3.1\ConsoleAppBasicFileOperationDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppBasicFileOperationDemo\ConsoleAppBasicFileOperationDemo\obj\Debug\netcoreapp3.1\ConsoleAppBasicFileOperationDemo.genruntimeconfig.cache

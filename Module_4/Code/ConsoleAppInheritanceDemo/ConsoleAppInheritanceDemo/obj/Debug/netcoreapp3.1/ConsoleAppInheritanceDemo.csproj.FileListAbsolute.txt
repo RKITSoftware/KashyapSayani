@@ -1,0 +1,14 @@
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInheritanceDemo\ConsoleAppInheritanceDemo\bin\Debug\netcoreapp3.1\ConsoleAppInheritanceDemo.exe
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInheritanceDemo\ConsoleAppInheritanceDemo\bin\Debug\netcoreapp3.1\ConsoleAppInheritanceDemo.deps.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInheritanceDemo\ConsoleAppInheritanceDemo\bin\Debug\netcoreapp3.1\ConsoleAppInheritanceDemo.runtimeconfig.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInheritanceDemo\ConsoleAppInheritanceDemo\bin\Debug\netcoreapp3.1\ConsoleAppInheritanceDemo.runtimeconfig.dev.json
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInheritanceDemo\ConsoleAppInheritanceDemo\bin\Debug\netcoreapp3.1\ConsoleAppInheritanceDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInheritanceDemo\ConsoleAppInheritanceDemo\bin\Debug\netcoreapp3.1\ConsoleAppInheritanceDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInheritanceDemo\ConsoleAppInheritanceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInheritanceDemo\ConsoleAppInheritanceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInheritanceDemo\ConsoleAppInheritanceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInheritanceDemo\ConsoleAppInheritanceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInheritanceDemo.AssemblyInfo.cs
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInheritanceDemo\ConsoleAppInheritanceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInheritanceDemo\ConsoleAppInheritanceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInheritanceDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInheritanceDemo\ConsoleAppInheritanceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInheritanceDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-4\ConsoleAppInheritanceDemo\ConsoleAppInheritanceDemo\obj\Debug\netcoreapp3.1\ConsoleAppInheritanceDemo.genruntimeconfig.cache
