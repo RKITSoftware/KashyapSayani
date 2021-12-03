@@ -1,0 +1,14 @@
+C:\Users\91940\Desktop\RKIT\Module-5\ConsoleAppSerializationDemo\ConsoleAppSerializationDemo\bin\Debug\netcoreapp3.1\ConsoleAppSerializationDemo.exe
+C:\Users\91940\Desktop\RKIT\Module-5\ConsoleAppSerializationDemo\ConsoleAppSerializationDemo\bin\Debug\netcoreapp3.1\ConsoleAppSerializationDemo.deps.json
+C:\Users\91940\Desktop\RKIT\Module-5\ConsoleAppSerializationDemo\ConsoleAppSerializationDemo\bin\Debug\netcoreapp3.1\ConsoleAppSerializationDemo.runtimeconfig.json
+C:\Users\91940\Desktop\RKIT\Module-5\ConsoleAppSerializationDemo\ConsoleAppSerializationDemo\bin\Debug\netcoreapp3.1\ConsoleAppSerializationDemo.runtimeconfig.dev.json
+C:\Users\91940\Desktop\RKIT\Module-5\ConsoleAppSerializationDemo\ConsoleAppSerializationDemo\bin\Debug\netcoreapp3.1\ConsoleAppSerializationDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-5\ConsoleAppSerializationDemo\ConsoleAppSerializationDemo\bin\Debug\netcoreapp3.1\ConsoleAppSerializationDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-5\ConsoleAppSerializationDemo\ConsoleAppSerializationDemo\obj\Debug\netcoreapp3.1\ConsoleAppSerializationDemo.csproj.AssemblyReference.cache
+C:\Users\91940\Desktop\RKIT\Module-5\ConsoleAppSerializationDemo\ConsoleAppSerializationDemo\obj\Debug\netcoreapp3.1\ConsoleAppSerializationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91940\Desktop\RKIT\Module-5\ConsoleAppSerializationDemo\ConsoleAppSerializationDemo\obj\Debug\netcoreapp3.1\ConsoleAppSerializationDemo.AssemblyInfoInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-5\ConsoleAppSerializationDemo\ConsoleAppSerializationDemo\obj\Debug\netcoreapp3.1\ConsoleAppSerializationDemo.AssemblyInfo.cs
+C:\Users\91940\Desktop\RKIT\Module-5\ConsoleAppSerializationDemo\ConsoleAppSerializationDemo\obj\Debug\netcoreapp3.1\ConsoleAppSerializationDemo.csproj.CoreCompileInputs.cache
+C:\Users\91940\Desktop\RKIT\Module-5\ConsoleAppSerializationDemo\ConsoleAppSerializationDemo\obj\Debug\netcoreapp3.1\ConsoleAppSerializationDemo.dll
+C:\Users\91940\Desktop\RKIT\Module-5\ConsoleAppSerializationDemo\ConsoleAppSerializationDemo\obj\Debug\netcoreapp3.1\ConsoleAppSerializationDemo.pdb
+C:\Users\91940\Desktop\RKIT\Module-5\ConsoleAppSerializationDemo\ConsoleAppSerializationDemo\obj\Debug\netcoreapp3.1\ConsoleAppSerializationDemo.genruntimeconfig.cache
