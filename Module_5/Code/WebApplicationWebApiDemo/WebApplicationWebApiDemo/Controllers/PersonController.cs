@@ -4,6 +4,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using WebApplicationWebApiDemo.Database;
 using WebApplicationWebApiDemo.Models;
 
 namespace WebApplicationWebApiDemo.Controllers
@@ -13,18 +14,7 @@ namespace WebApplicationWebApiDemo.Controllers
     /// </summary>
     public class PersonController : ApiController
     {
-
-        List<Person> persons = new List<Person>();
-
-        
-        public PersonController()
-        {
-            persons.Add(new Person { FirstName = "Kashyap" , LastNAme = "Sayani" , id = 1 });
-            persons.Add(new Person { FirstName = "Manas", LastNAme = "PArmar", id = 2 });
-            persons.Add(new Person { FirstName = "Ritik", LastNAme = "Mehta", id = 3 });
-        }
-
-
+        public PersonDB persons = new PersonDB();
         /// <summary>
         /// Gets a list of the first names of all usesrs.
         /// </summary>
@@ -35,32 +25,25 @@ namespace WebApplicationWebApiDemo.Controllers
         [HttpGet]
         public List<string> GetFirstName()
         {
-            List<string> output = new List<string>();
-
-            foreach(var p in persons)
-            {
-                output.Add(p.FirstName);
-            }
-
-            return output;
+            return persons.getFirstName();
         }
 
         // GET api/<controller>
         public List<Person> Get()
         {
-            return persons;
+            return persons.getAllPerson();
         }
 
         // GET api/<controller>/5
         public Person Get(int id)
         {
-            return persons.Where(x => x.id == id).FirstOrDefault();
+            return persons.getPersonById(id);
         }
 
         // POST api/<controller>
         public void Post(Person value)
         {
-            persons.Add(value);
+            persons.addPerson(value);
         }
 
         // PUT api/<controller>/5
