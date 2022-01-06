@@ -6,6 +6,7 @@ using System.Web.Mvc;
 using System.Data;
 using System.Data.SqlClient;
 using WebApplicationCrudOperationDemo.Models;
+using WebApplicationCrudOperationDemo.App_Start;
 
 namespace WebApplicationCrudOperationDemo.Controllers
 {
@@ -14,7 +15,9 @@ namespace WebApplicationCrudOperationDemo.Controllers
     /// </summary>
     public class ProductController : Controller
     {
-        string connectionString = @"Data Source = DESKTOP-HHFHACS; Initial Catalog = MvcCrudDB; Integrated Security =True";
+        string connectionString = Constants.getConnectionString();
+
+        public static object Constant { get; private set; }
 
         /// <summary>
         /// Gets a list of all the products.
@@ -24,14 +27,14 @@ namespace WebApplicationCrudOperationDemo.Controllers
         // GET: Product
         public ActionResult Index()
         {
-            DataTable dtblProduct = new DataTable();
-            using (SqlConnection sqlCon = new SqlConnection(connectionString))
+            DataTable objDtblProduct = new DataTable();
+            using (SqlConnection objSqlCon = new SqlConnection(connectionString))
             {
-                sqlCon.Open();
-                SqlDataAdapter sqlDa = new SqlDataAdapter("SELECT * FROM Product", sqlCon);
-                sqlDa.Fill(dtblProduct);
+                objSqlCon.Open();
+                SqlDataAdapter objSqlDa = new SqlDataAdapter("SELECT ProductId,ProductName,Price,Count FROM Product", objSqlCon);
+                objSqlDa.Fill(objDtblProduct);
             }
-            return View(dtblProduct);
+            return View(objDtblProduct);
         }
 
 
@@ -46,7 +49,6 @@ namespace WebApplicationCrudOperationDemo.Controllers
             return View(new ProductModel());
         }
 
-
         /// <summary>
         /// Create a product post method.
         /// </summary>
@@ -58,15 +60,15 @@ namespace WebApplicationCrudOperationDemo.Controllers
         {
            if(ModelState.IsValid)
            {
-                using (SqlConnection sqlCon = new SqlConnection(connectionString))
+                using (SqlConnection objSqlCon = new SqlConnection(connectionString))
                 {
-                    sqlCon.Open();
+                    objSqlCon.Open();
                     string query = "INSERT INTO Product VALUES(@ProductName,@Price,@Count)";
-                    SqlCommand sqlCmd = new SqlCommand(query, sqlCon);
-                    sqlCmd.Parameters.AddWithValue("@ProductName", productModel.ProductName);
-                    sqlCmd.Parameters.AddWithValue("@Price", productModel.Price);
-                    sqlCmd.Parameters.AddWithValue("@Count", productModel.Count);
-                    sqlCmd.ExecuteNonQuery();
+                    SqlCommand objSqlCmd = new SqlCommand(query, objSqlCon);
+                    objSqlCmd.Parameters.AddWithValue("@ProductName", productModel.ProductName);
+                    objSqlCmd.Parameters.AddWithValue("@Price", productModel.Price);
+                    objSqlCmd.Parameters.AddWithValue("@Count", productModel.Count);
+                    objSqlCmd.ExecuteNonQuery();
                 }
                 return RedirectToAction("Index");
            }
@@ -82,23 +84,23 @@ namespace WebApplicationCrudOperationDemo.Controllers
         // GET: Product/Edit/5
         public ActionResult Edit(int id)
         {
-            ProductModel productModel = new ProductModel();
-            DataTable dtblProduct = new DataTable();
-            using (SqlConnection sqlCon = new SqlConnection(connectionString))
+            ProductModel objProductModel = new ProductModel();
+            DataTable objDtblProduct = new DataTable();
+            using (SqlConnection objSqlCon = new SqlConnection(connectionString))
             {
-                sqlCon.Open();
-                string query = "SELECT * FROM Product Where ProductID = @ProductID ";
-                SqlDataAdapter sqlDa = new SqlDataAdapter(query, sqlCon);
-                sqlDa.SelectCommand.Parameters.AddWithValue("@ProductId", id);
-                sqlDa.Fill(dtblProduct);
+                objSqlCon.Open();
+                string query = "SELECT ProductId,ProductName,Price,Count FROM Product Where ProductID = @ProductID ";
+                SqlDataAdapter objSqlDa = new SqlDataAdapter(query, objSqlCon);
+                objSqlDa.SelectCommand.Parameters.AddWithValue("@ProductId", id);
+                objSqlDa.Fill(objDtblProduct);
             }
-            if(dtblProduct.Rows.Count==1)
+            if(objDtblProduct.Rows.Count==1)
             {
-                productModel.ProductId = Convert.ToInt32(dtblProduct.Rows[0][0].ToString());
-                productModel.ProductName = dtblProduct.Rows[0][1].ToString();
-                productModel.Price = Convert.ToDecimal(dtblProduct.Rows[0][2].ToString());
-                productModel.Count = Convert.ToInt32(dtblProduct.Rows[0][3].ToString());
-                return View(productModel);
+                objProductModel.ProductId = Convert.ToInt32(objDtblProduct.Rows[0][0].ToString());
+                objProductModel.ProductName = objDtblProduct.Rows[0][1].ToString();
+                objProductModel.Price = Convert.ToDecimal(objDtblProduct.Rows[0][2].ToString());
+                objProductModel.Count = Convert.ToInt32(objDtblProduct.Rows[0][3].ToString());
+                return View(objProductModel);
             }
             else
             {
@@ -115,16 +117,16 @@ namespace WebApplicationCrudOperationDemo.Controllers
         [HttpPost]
         public ActionResult Edit(ProductModel productModel)
         {
-            using (SqlConnection sqlCon = new SqlConnection(connectionString))
+            using (SqlConnection objSqlCon = new SqlConnection(connectionString))
             {
-                sqlCon.Open();
+                objSqlCon.Open();
                 string query = "UPDATE Product SET ProductName = @ProductName, Price = @Price, Count = @Count Where ProductId = @ProductId";
-                SqlCommand sqlCmd = new SqlCommand(query,sqlCon);
-                sqlCmd.Parameters.AddWithValue("@ProductId",productModel.ProductId);
-                sqlCmd.Parameters.AddWithValue("@ProductName",productModel.ProductName);
-                sqlCmd.Parameters.AddWithValue("@Price",productModel.Price);
-                sqlCmd.Parameters.AddWithValue("@Count",productModel.Count);
-                sqlCmd.ExecuteNonQuery();
+                SqlCommand objSqlCmd = new SqlCommand(query,objSqlCon);
+                objSqlCmd.Parameters.AddWithValue("@ProductId",productModel.ProductId);
+                objSqlCmd.Parameters.AddWithValue("@ProductName",productModel.ProductName);
+                objSqlCmd.Parameters.AddWithValue("@Price",productModel.Price);
+                objSqlCmd.Parameters.AddWithValue("@Count",productModel.Count);
+                objSqlCmd.ExecuteNonQuery();
             }
             return RedirectToAction("Index");
         }
@@ -137,13 +139,13 @@ namespace WebApplicationCrudOperationDemo.Controllers
         // GET: Product/Delete/5
         public ActionResult Delete(int id)
         {
-            using (SqlConnection sqlCon = new SqlConnection(connectionString))
+            using (SqlConnection objSqlCon = new SqlConnection(connectionString))
             {
-                sqlCon.Open();
+                objSqlCon.Open();
                 string query = "DELETE FROM Product Where ProductId = @ProductId";
-                SqlCommand sqlCmd = new SqlCommand(query, sqlCon);
-                sqlCmd.Parameters.AddWithValue("@ProductId", id);
-                sqlCmd.ExecuteNonQuery();
+                SqlCommand objSqlCmd = new SqlCommand(query, objSqlCon);
+                objSqlCmd.Parameters.AddWithValue("@ProductId", id);
+                objSqlCmd.ExecuteNonQuery();
             }
             return RedirectToAction("Index");
         }
