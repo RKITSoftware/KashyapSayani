@@ -12,9 +12,9 @@ namespace WebApplicationWebApiDemo.Database
 
         public PersonDB()
         {
-            persons.Add(new Person { FirstName = "Kashyap", LastNAme = "Sayani", id = 1 });
-            persons.Add(new Person { FirstName = "Manas", LastNAme = "PArmar", id = 2 });
-            persons.Add(new Person { FirstName = "Ritik", LastNAme = "Mehta", id = 3 });
+            persons.Add(new Person { FirstName = "Kashyap", LastName = "Sayani", id = 1 });
+            persons.Add(new Person { FirstName = "Manas", LastName = "PArmar", id = 2 });
+            persons.Add(new Person { FirstName = "Ritik", LastName = "Mehta", id = 3 });
         }
 
         public List<Person> getAllPerson()
