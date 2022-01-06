@@ -7,6 +7,7 @@ using System.Data;
 using System.Data.SqlClient;
 using WebApplicationCrudOperationDemo.Models;
 using WebApplicationCrudOperationDemo.App_Start;
+using WebApplicationCrudOperationDemo.BLProducts;
 
 namespace WebApplicationCrudOperationDemo.Controllers
 {
@@ -16,8 +17,7 @@ namespace WebApplicationCrudOperationDemo.Controllers
     public class ProductController : Controller
     {
         string connectionString = Constants.getConnectionString();
-
-        public static object Constant { get; private set; }
+        BLProduct objBlProduct = new BLProduct();
 
         /// <summary>
         /// Gets a list of all the products.
@@ -27,14 +27,7 @@ namespace WebApplicationCrudOperationDemo.Controllers
         // GET: Product
         public ActionResult Index()
         {
-            DataTable objDtblProduct = new DataTable();
-            using (SqlConnection objSqlCon = new SqlConnection(connectionString))
-            {
-                objSqlCon.Open();
-                SqlDataAdapter objSqlDa = new SqlDataAdapter("SELECT ProductId,ProductName,Price,Count FROM Product", objSqlCon);
-                objSqlDa.Fill(objDtblProduct);
-            }
-            return View(objDtblProduct);
+            return View(objBlProduct.getAllProducts());
         }
 
 
@@ -60,16 +53,7 @@ namespace WebApplicationCrudOperationDemo.Controllers
         {
            if(ModelState.IsValid)
            {
-                using (SqlConnection objSqlCon = new SqlConnection(connectionString))
-                {
-                    objSqlCon.Open();
-                    string query = "INSERT INTO Product VALUES(@ProductName,@Price,@Count)";
-                    SqlCommand objSqlCmd = new SqlCommand(query, objSqlCon);
-                    objSqlCmd.Parameters.AddWithValue("@ProductName", productModel.ProductName);
-                    objSqlCmd.Parameters.AddWithValue("@Price", productModel.Price);
-                    objSqlCmd.Parameters.AddWithValue("@Count", productModel.Count);
-                    objSqlCmd.ExecuteNonQuery();
-                }
+                objBlProduct.createProduct(productModel);
                 return RedirectToAction("Index");
            }
 
@@ -85,16 +69,10 @@ namespace WebApplicationCrudOperationDemo.Controllers
         public ActionResult Edit(int id)
         {
             ProductModel objProductModel = new ProductModel();
-            DataTable objDtblProduct = new DataTable();
-            using (SqlConnection objSqlCon = new SqlConnection(connectionString))
-            {
-                objSqlCon.Open();
-                string query = "SELECT ProductId,ProductName,Price,Count FROM Product Where ProductID = @ProductID ";
-                SqlDataAdapter objSqlDa = new SqlDataAdapter(query, objSqlCon);
-                objSqlDa.SelectCommand.Parameters.AddWithValue("@ProductId", id);
-                objSqlDa.Fill(objDtblProduct);
-            }
-            if(objDtblProduct.Rows.Count==1)
+           
+            DataTable objDtblProduct = objBlProduct.getProductForEdit(id);
+
+            if (objDtblProduct.Rows.Count==1)
             {
                 objProductModel.ProductId = Convert.ToInt32(objDtblProduct.Rows[0][0].ToString());
                 objProductModel.ProductName = objDtblProduct.Rows[0][1].ToString();
@@ -117,17 +95,7 @@ namespace WebApplicationCrudOperationDemo.Controllers
         [HttpPost]
         public ActionResult Edit(ProductModel productModel)
         {
-            using (SqlConnection objSqlCon = new SqlConnection(connectionString))
-            {
-                objSqlCon.Open();
-                string query = "UPDATE Product SET ProductName = @ProductName, Price = @Price, Count = @Count Where ProductId = @ProductId";
-                SqlCommand objSqlCmd = new SqlCommand(query,objSqlCon);
-                objSqlCmd.Parameters.AddWithValue("@ProductId",productModel.ProductId);
-                objSqlCmd.Parameters.AddWithValue("@ProductName",productModel.ProductName);
-                objSqlCmd.Parameters.AddWithValue("@Price",productModel.Price);
-                objSqlCmd.Parameters.AddWithValue("@Count",productModel.Count);
-                objSqlCmd.ExecuteNonQuery();
-            }
+            objBlProduct.editProduct(productModel);
             return RedirectToAction("Index");
         }
 
@@ -139,14 +107,7 @@ namespace WebApplicationCrudOperationDemo.Controllers
         // GET: Product/Delete/5
         public ActionResult Delete(int id)
         {
-            using (SqlConnection objSqlCon = new SqlConnection(connectionString))
-            {
-                objSqlCon.Open();
-                string query = "DELETE FROM Product Where ProductId = @ProductId";
-                SqlCommand objSqlCmd = new SqlCommand(query, objSqlCon);
-                objSqlCmd.Parameters.AddWithValue("@ProductId", id);
-                objSqlCmd.ExecuteNonQuery();
-            }
+            objBlProduct.deleteProduct(id);
             return RedirectToAction("Index");
         }
     }
