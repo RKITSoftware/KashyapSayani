@@ -509,7 +509,7 @@
             The user's first name.
             </summary>
         </member>
-        <member name="P:WebApplicationWebApiDemo.Models.Person.LastNAme">
+        <member name="P:WebApplicationWebApiDemo.Models.Person.LastName">
             <summary>
             The user's last name
             </summary>
